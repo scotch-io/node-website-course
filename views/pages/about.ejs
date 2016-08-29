@@ -11,5 +11,14 @@
 
 <%- contentFor('body') %>
 <div class="jumbotron text-center">
-  About Page
+  <h1>The Team</h1>
+
+  <div class="row">
+    <% for (user of users) { %>
+      <div class="col-sm-3">
+        <h2><%= user.name %>
+        <img src="<%= user.avatar %>" alt="" class="img-responsive">
+      </div>
+    <% } %>
+  </div>
 </div>
