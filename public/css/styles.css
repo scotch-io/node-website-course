@@ -1,0 +1,55 @@
+body {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+header .navbar {
+  border-radius: 0;
+  margin: 0;
+}
+
+.hero {
+  background-image: url(../img/planet.jpg);
+  background-repeat: no-repeat;;
+  background-size: cover;
+  background-position: center center;
+  padding: 50px 0;
+  min-height: 650px;
+  position: relative;
+}
+
+.hero-content {
+  position: absolute;
+  top: 50%;
+  text-align: center;
+  width: 100%;
+}
+
+.hero-content h2 {
+  color: #FFF;
+  font-size: 80px;
+}
+
+.hero-content p {
+  color: #FFF;
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+
+.hero-content .btn {
+  border-radius: 2px;
+  padding: 20px 30px;
+}  
+
+main {
+  min-height: 500px;
+  padding: 50px 0;
+}
+
+footer {
+  padding: 30px 0;
+  font-size: 14px;
+  color: #BBB;
+  background: #222;
+  text-align: center;
+}
