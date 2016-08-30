@@ -11,4 +11,4 @@ Full project for the Build a Website with Node course.
 
 ## Course Videos
 
-[Watch the first three lessons free](https://school.scotch.io/build-a-node-js-website)
+[Watch the first three lessons free](https://school.scotch.io/build-a-nodejs-website)
