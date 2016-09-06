@@ -11,7 +11,7 @@ app.set('view engine', 'ejs');
 app.use(expressLayouts);
 
 // use body parser
-app.use(bodyParser.urlencoded());
+app.use(bodyParser.urlencoded({ extended: true }));
 
 // route our app
 var router = require('./app/routes');
