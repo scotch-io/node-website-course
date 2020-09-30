@@ -1,6 +1,7 @@
 # Build a Website with Node.js
 
 Full project for the Build a Website with Node course. 
+Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ## Instructions
 
