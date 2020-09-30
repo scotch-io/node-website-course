@@ -1,6 +1,6 @@
 # Build a Website with Node.js
 
-Full project for the Build a Website with Node course. 
+Full project of Building a Website with Node course. 
 
 ## Instructions
 
