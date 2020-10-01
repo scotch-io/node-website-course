@@ -1,6 +1,7 @@
 # Build a Website with Node.js
+#js (Node) is an open source development platform for executing JavaScript code server-side. ... js is intended to run on a dedicated HTTP #server and to employ a single thread with one process at a time. Node. js applications are event-based and run asynchronously.
 
-Full project for the Build a Website with Node course. 
+#Full project for the Build a Website with Node course. 
 
 ## Instructions
 
