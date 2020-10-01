@@ -1,4 +1,5 @@
 # Build a Website with Node.js
+![nodejs](https://github.com/Anjan50/node-website-course/blob/master/nodejs.png)
 
 Full project for the Build a Website with Node course. 
 
