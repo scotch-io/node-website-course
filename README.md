@@ -2,6 +2,9 @@
 
 Full project for the Build a Website with Node course. 
 
+# What is Node.js
+Node.js is an open-source, cross-platform, back end, JavaScript runtime environment that executes JavaScript code outside a web browser.
+
 ## Instructions
 
 1. Clone the repo: `git@github.com:scotch-io/node-website-course.git`
