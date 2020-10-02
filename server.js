@@ -22,7 +22,7 @@ app.use('/', router);
 app.use(express.static(__dirname + '/public'));
 
 // start the server
-app.listen(port, function() {
+app.listen(port, ()=> {
   console.log('app started');
 });
 
