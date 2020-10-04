@@ -12,3 +12,6 @@ Full project for the Build a Website with Node course.
 ## Course Videos
 
 [Watch the first three lessons free](https://school.scotch.io/build-a-nodejs-website)
+
+Build an amazing website with node make a your carrier top notch.
+## Most dimandeble course ever
